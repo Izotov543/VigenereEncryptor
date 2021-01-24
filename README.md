@@ -1,7 +1,7 @@
 # VigenereEncryptor
 Test task solution
 
-1. Реализовать систему шифрования методом Винжера:
+Реализовать систему шифрования методом Винжера:
 Сигнатура метода шифрования:
 string Encrypt(string source, string key);
 
